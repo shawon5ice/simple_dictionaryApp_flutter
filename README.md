@@ -1,6 +1,8 @@
-# dictionary_using_bloc
+# dictionary_using_bloc_cubit
 
-A new Flutter project.
+A new Flutter Dictionary project.
+
+This app is build with simplest version of bloc.
 
 ## Getting Started
 
